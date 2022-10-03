@@ -40,17 +40,6 @@ ul{
     list-style-type: none;
 }
 
-a::before{
-    color: #D90429;
-}
-
-a::after{
-    color: grey;
-}
-
-a:hover{
-    color: #2B2D42;
-}
 
 .boxes{
     text-align: center;
