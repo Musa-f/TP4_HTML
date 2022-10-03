@@ -60,3 +60,8 @@ ul{
 .formulaire{
     padding: 5%;
 }
+
+.navfin{
+    justify-content: center;
+    margin-bottom: 3%;
+}
