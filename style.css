@@ -19,16 +19,26 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.panime{
+    padding: 2%;
+    text-align: justify;
+}
+
 h3{
     color: #2B2D42;
     font-size: 1.5rem;
     font-weight: bold;
     text-decoration: underline dotted black 2px;
+    padding: 2%;
+}
+
+.anime{
+    padding-bottom: 1%;
 }
 
 section{
     text-align: center;
-    margin: 5px;
+    margin: 3%;
     background: white;
 }
 
@@ -45,4 +55,8 @@ ul{
     text-align: center;
     margin-top: 5%;
     margin-bottom: 5%;
+}
+
+.formulaire{
+    padding: 5%;
 }
