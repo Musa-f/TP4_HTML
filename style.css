@@ -1,0 +1,53 @@
+body{
+    background: gainsboro;
+}
+
+header{
+    text-align: center;
+}
+
+.banniere{
+    width: 600px;
+    margin-top: 30px;
+}
+
+
+h1{
+    color: #EF233C;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    color: #2B2D42;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: underline dotted black 2px;
+}
+
+section{
+    text-align: center;
+    border: solid black 2px;
+    margin: 5px;
+}
+
+footer{
+    text-align: right;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a::before{
+    color: #D90429;
+}
+
+a::after{
+    color: grey;
+}
+
+a:hover{
+    color: #2B2D42;
+}
